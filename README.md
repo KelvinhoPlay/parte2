@@ -1,6 +1,6 @@
 # Parte2
 
-Repositório “parte2” do KelvinhoPlay.
+Repositório “parte2” do Kelves Souza.
 
 ---
 
